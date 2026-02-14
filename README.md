@@ -11,5 +11,4 @@ this block diagram defines the single stage pipeline register with the width siz
 
 below simulation diagram shows the simulation of the pipelined register
 
-
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/f3f30482-6537-4f58-931f-0cfae3bff28f" />
+<img width="1920" height="1017" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/79693c23-27fe-4e13-bbc8-6f0a4294f933" />
