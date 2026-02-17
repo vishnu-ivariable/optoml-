@@ -32,7 +32,6 @@ output in_ready,
 
 output reg [width-1:0] out_data,
 input out_valid
-//output out_ready
 );
 
 
@@ -41,7 +40,6 @@ reg full;
 
 
 assign in_ready = !full || !out_valid;
-//assign out_ready = full || !in_ready; 
 
 always_ff@(posedge clk) begin 
 if(reset) begin
